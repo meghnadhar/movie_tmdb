@@ -1,0 +1,11 @@
+<div class="container">
+<div *ngIf="movie">
+    <h3> The details of the selected movie  are : </h3><br><br>
+  <div class="well container">
+      <img [src]="'http://image.tmdb.org/t/p/w1000' + movie.poster_path" style=" width:200px; height:300px" />
+  <h4>Original-Language: {{movie.original_language}}</h4>
+  <h4>Ratings: {{movie.vote_average}}</h4>
+  <p>Overview:{{movie.overview}}</p>
+  </div>
+</div>
+</div>

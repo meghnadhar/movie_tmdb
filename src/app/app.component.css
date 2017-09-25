@@ -1,0 +1,18 @@
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+.nav
+{
+   text-align: center;
+   
+}
+.navbar-brand {
+	padding: 13px 15px;
+}
+
+#search_display{
+    height:100%;
+    width:100%;
+}

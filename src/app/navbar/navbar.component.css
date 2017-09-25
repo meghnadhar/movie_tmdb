@@ -1,0 +1,25 @@
+#login{
+    margin-top: 8px;
+    margin-right: 10px;
+ }
+ header{
+    margin-bottom: 0px;
+    width: 100%;
+ }
+ .navbar-brand{
+     font-size: 30px;
+     font-style: bold;
+     padding-top: 20px;
+ }
+header img {
+    height: 60px;
+    width: 60px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.dropdown a {
+    font-size: 18px;
+    padding-right: 30px;
+    padding-top: 20px;
+}

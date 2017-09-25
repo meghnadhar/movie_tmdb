@@ -1,0 +1,15 @@
+.container a {
+   
+    color :#222;
+    text-decoration: none;
+}
+.container a:hover{
+    color: #337ab7;
+}
+#poster {
+    text-align: center;
+}
+h3{
+    color: #31ada1;
+    padding-left: 50px;
+}
